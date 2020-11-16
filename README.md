@@ -1,9 +1,9 @@
-I'm Margie and I literally just want to sleep, but I can't because I'm coding.
+Hey there! I'm Margie, I wrote my first line of code on March 02, 2020, and have been digging in deep ever since.
 
-First line of code ever written on: March 02, 2020!
+I'm currently learning: Java & the many Java-adjacent related items: Spring, Springboot, Hibernate, JDBC...<br>
 
-I'm currently learning: Java & the many Java-adjacent related items: Spring, Springboot, Hibernate, JDBC...
-I'm looking for help with: Machine Learning/AI
+I'm looking for help with: Machine Learning/AI<br>
+
 Best way to contact me: marguerite.blair@gmail.com
 
 
