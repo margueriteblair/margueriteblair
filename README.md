@@ -1,5 +1,11 @@
 I'm Margie and I literally just want to sleep, but I can't because I'm coding.
 
+First line of code ever written on: March 02, 2020!
+
+I'm currently learning: Java & the many Java-adjacent related items: Spring, Springboot, Hibernate, JDBC...
+I'm looking for help with: Machine Learning/AI
+Best way to contact me: marguerite.blair@gmail.com
+
 
 <!--
 **margueriteblair/margueriteblair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
