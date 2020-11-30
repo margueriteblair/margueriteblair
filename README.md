@@ -5,8 +5,6 @@ I'm currently learning: Java & the many Java-adjacent related items: Spring, Spr
 I'm looking for help with: Machine Learning/AI<br>
 
 
-I really just enjoy delving into algorithms:D
-
 Best way to contact me: marguerite.blair@gmail.com
 
 
