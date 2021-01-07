@@ -2,6 +2,8 @@ Hey there! I'm Margie, I wrote my first line of code on March 02, 2020, and have
 
 I'm currently learning: Machine Learning / AI <br>
 
+I'm looking for help with: Blockchain development languages <br>
+
 Best way to contact me: marguerite.blair@gmail.com
 
 
