@@ -2,7 +2,7 @@ Hey there! I'm Margie, I wrote my first line of code on March 02, 2020, and have
 
 I'm currently working on: Machine Learning and Tensor Flow Models, a few Javascript hobby projects :)<br>
 
-The next steps for me: Blockchain development languages <br>
+The next steps for me: Blockchain smart contract languages: Plutus, Marlowe <br>
 
 Best way to contact me: marguerite.blair@gmail.com
 
