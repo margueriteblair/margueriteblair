@@ -4,6 +4,6 @@ I'm currently working on: Furthering my DevOps knowledge & reading up on smart c
 
 The next steps for me: Cardano smart contract languages: Plutus <br>
 
-Best way to contact me: marguerite.blair@gmail.com.
+Best way to contact me: marguerite.blair@gmail.com
 
 
